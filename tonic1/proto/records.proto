@@ -3,7 +3,7 @@ package records;
 
 
 //service message
-service Recorder{rpc SendMessage(RecordRequest) return (RecordResonse);}
+service Recorder{rpc SendMessage(RecordRequest) returns (RecordResponse);}
 
 message RecordRequest{
   string user_name =1;
