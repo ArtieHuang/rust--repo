@@ -1,0 +1,12 @@
+/Users/artie/rust/criterion_demo/target/release/deps/term-3e05eabade07b768.rmeta: /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/lib.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/mod.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/searcher.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/compiled.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/names.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parm.rs
+
+/Users/artie/rust/criterion_demo/target/release/deps/libterm-3e05eabade07b768.rlib: /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/lib.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/mod.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/searcher.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/compiled.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/names.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parm.rs
+
+/Users/artie/rust/criterion_demo/target/release/deps/term-3e05eabade07b768.d: /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/lib.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/mod.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/searcher.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/compiled.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/names.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parm.rs
+
+/Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/lib.rs:
+/Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/mod.rs:
+/Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/searcher.rs:
+/Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/compiled.rs:
+/Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/names.rs:
+/Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parm.rs:

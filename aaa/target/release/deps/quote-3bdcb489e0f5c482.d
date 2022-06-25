@@ -1,0 +1,13 @@
+/Users/artie/rust/aaa/target/release/deps/quote-3bdcb489e0f5c482.rmeta: /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs
+
+/Users/artie/rust/aaa/target/release/deps/libquote-3bdcb489e0f5c482.rlib: /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs
+
+/Users/artie/rust/aaa/target/release/deps/quote-3bdcb489e0f5c482.d: /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs /Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs
+
+/Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/lib.rs:
+/Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ext.rs:
+/Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/format.rs:
+/Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/ident_fragment.rs:
+/Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/to_tokens.rs:
+/Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/runtime.rs:
+/Users/artie/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.18/src/spanned.rs:
